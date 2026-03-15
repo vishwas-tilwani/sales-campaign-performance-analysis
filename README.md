@@ -1,7 +1,7 @@
 # Sales Campaign Performance Analysis (Excel Dashboard)
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Sales Operations Commercial Dash Preview.png)
 
 ## Overview
 This project analyses campaign performance using Microsoft Excel.  
