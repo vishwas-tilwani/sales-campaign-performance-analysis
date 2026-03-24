@@ -91,7 +91,9 @@
 |------|-------------|
 | [📊 View Interactive Dashboard](https://docs.google.com/spreadsheets/d/1E_Qj05VjYdkFcKKSL955HKBg6LIlBqabNwDfprmcBuY/edit?usp=sharing) | Full Excel workbook: raw data, pivot tables & interactive dashboard |
 | `cleaned_dataset.xlsx` | Cleaned and transformed dataset used for analysis |
-| `Sales-Campaign-Insights-Presentation.pdf` | 📑 Viewable slide deck with all insights & recommendations |
+## 📑 Presentation
+
+[![View Presentation](https://img.shields.io/badge/View%20Presentation-Click%20Here-red?style=for-the-badge&logo=adobeacrobatreader)](Sales-Campaign-Insights-Presentation.pdf)
 ---
 
 ## 🛠️ Skills Demonstrated
