@@ -1,3 +1,6 @@
+## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
 # 📊 Sales & Campaign Performance Analysis
 
 > **Multi-sector marketing campaign analysis across 5 industries — identifying 
