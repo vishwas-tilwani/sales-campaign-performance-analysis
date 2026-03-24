@@ -1,6 +1,3 @@
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
 # 📊 Sales & Campaign Performance Analysis
 
 > **Multi-sector marketing campaign analysis across 5 industries — identifying 
@@ -8,7 +5,9 @@
 > to inform 2026 budget planning.**
 
 ---
+## 📸 Dashboard Preview
 
+![Dashboard Preview](dashboard-preview.png)
 ## 🗂️ Project Overview
 
 | Detail | Info |
