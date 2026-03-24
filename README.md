@@ -91,7 +91,7 @@
 |------|-------------|
 | `Sales Operations Commercial Insight.xlsx` | Full Excel workbook: raw data, pivot tables & interactive dashboard |
 | `cleaned_dataset.xlsx` | Cleaned and transformed dataset used for analysis |
-| `Sales Operations Commercial Insight - Presentation.pptx` | Stakeholder presentation with visual insights & recommendations |
+| `Sales-Campaign-Insights-Presentation.pdf` | 📑 Viewable slide deck with all insights & recommendations |
 
 ---
 
